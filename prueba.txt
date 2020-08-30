@@ -1,3 +1,5 @@
 Prueba de Git Master
 
 Se agrega corrección en el HotFix
+
+Se agrega feature2.
